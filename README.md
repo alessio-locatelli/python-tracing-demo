@@ -128,3 +128,6 @@ jsonData:
 - [OTLP exporter](https://opentelemetry-python.readthedocs.io/en/latest/exporter/otlp/otlp.html)
 - [Logging instrumentation docs](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/logging/logging.html)
 - [FastAPI instrumentation docs](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/fastapi/fastapi.html)
+# FastAPI Tracing Demo
+Demo to show how to instrument a [FastAPI](https://fastapi.tiangolo.com/) python project 
+adding tracing with [OpnTelemetry](https://opentelemetry.io/) and send/show traces in [Grafana Tempo](https://grafana.com/oss/tempo/)
